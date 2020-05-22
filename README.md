@@ -19,19 +19,19 @@ main.cpp:
 ## Udacity CppND Capstone Project rubric points addressed:
   
   README
-    - [x] (All Rubric Points REQUIRED)
+  - [x] (All Rubric Points REQUIRED)
   
   Compiling and Testing
-    - [x] (All Rubric Points REQUIRED)
+  - [x] (All Rubric Points REQUIRED)
   
   Loops, Functions, I/O
-    - [x] The project demonstrates an understanding of C++ functions and control structures.
+  - [x] The project demonstrates an understanding of C++ functions and control structures.
   
   Object Oriented Programming
-    - [x] The project uses Object Oriented Programming techniques (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
-    - [x] Classes use appropriate access specifiers for class members (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
-    - [x] Class constructors utilize member initialization lists (MandelbrotSet.cpp, line 22)
-    - [x] Classes abstract implementation details from their interfaces (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
+  - [x] The project uses Object Oriented Programming techniques (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
+  - [x] Classes use appropriate access specifiers for class members (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
+  - [x] Class constructors utilize member initialization lists (MandelbrotSet.cpp, line 22)
+  - [x] Classes abstract implementation details from their interfaces (SDLWindow.h/.cpp | MandelbrotSet.h/.cpp)
 
 
 
