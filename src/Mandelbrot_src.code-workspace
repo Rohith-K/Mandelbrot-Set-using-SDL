@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../include/"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"optional": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}
