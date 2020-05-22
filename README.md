@@ -47,7 +47,7 @@ main.cpp:
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 * SDL 2.0
-	* Linux: sudo apt install cmake libsdl2-dev g++
+	* Linux: `sudo apt install cmake libsdl2-dev g++`
 	* Windows: https://www.libsdl.org/download-2.0.php
 	
 ## Build and Run Instructions
